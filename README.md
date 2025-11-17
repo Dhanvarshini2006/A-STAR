@@ -142,7 +142,8 @@ J 0 <br>
 
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-<img width="1560" height="854" alt="image" src="https://github.com/user-attachments/assets/e2d03961-628b-4c81-b70b-d4f1c2430497" />
+<img width="436" height="479" alt="image" src="https://github.com/user-attachments/assets/3f0641ee-100c-4467-9883-35ecb09a537e" />
+
 
 
 
@@ -174,8 +175,8 @@ G 0 <br>
 ## Sample Output:
 
 Path found: ['A', 'E', 'D', 'G']
+<img width="449" height="478" alt="image" src="https://github.com/user-attachments/assets/f24bdf8d-ab87-4473-ac42-e489fb235982" />
 
-<img width="1402" height="550" alt="image" src="https://github.com/user-attachments/assets/df1c68c6-806f-42a3-9398-9598165b17f5" />
 
 ## Result:
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
